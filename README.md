@@ -9,4 +9,4 @@ SETFP <br/>
 
 ![ScreenShot](/Img/GH/Interfaz.jpg)
 
-<img src="https://raw.githubusercontent.com/HugoAr10/CONTACTICS/master/Assets/Img/GH/Interfaz.jpg" width="600px"/>
+<img src="https://raw.githubusercontent.com/HugoAr10/CONTACTICS/main/Assets/Img/GH/Interfaz.jpg" width="600px"/>
