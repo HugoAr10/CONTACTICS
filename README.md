@@ -15,4 +15,4 @@ Don't forget to leave a ⭐ if you found this useful.
 Thankyou🎆
 
 
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title") 
+![Alt text](/GH/Interfaz.jpg?raw=true "Optional Title") 
