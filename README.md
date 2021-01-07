@@ -1,13 +1,15 @@
 # CONTACTICS
 SETFP <br/>
-![ScreenShot](https://raw.githubusercontent.com/HugoAr10/CONTACTICS/master/Assets/Img/GH/Interfaz.jpg)
-![ScreenShot](GH/Interfaz.jpg)
-![Alt text](/Img/GH/Interfaz.jpg?raw=true "Optional Title") 
-<div align="center">
-    <img src="/Img/GH/Interfaz.jpg" width="400px"</img> 
-</div>
+### NOTE : This repo is archived until the end of Hacktoberfest
 
-![ScreenShot](/Img/GH/Interfaz.jpg)
+First chioce for readme tamplets profile : 
 
-<img src="https://raw.githubusercontent.com/HugoAr10/CONTACTICS/main/Assets/Img/GH/Interfaz.jpg" width="600px"/>
-![Alt text](/Img/GH/Interfaz.jpg?raw=true "ooooooooo")
+![banner](https://user-images.githubusercontent.com/23727056/87433896-78ae9700-c607-11ea-9ca6-9cdbe3f67998.jpg)
+
+The aim of this repository is to collect awesome READMEs that developers around the world are using on their own profiles to act as an inspiration for others.
+Video about [GitHub Profile README](https://twitter.com/github/status/1294348292130836482?s=20)
+
+Feel free to add your own or someone else's profile README if you find it super awesome! 
+
+Don't forget to leave a ⭐ if you found this useful.
+Thankyou🎆
