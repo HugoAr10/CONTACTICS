@@ -10,3 +10,4 @@ SETFP <br/>
 ![ScreenShot](/Img/GH/Interfaz.jpg)
 
 <img src="https://raw.githubusercontent.com/HugoAr10/CONTACTICS/main/Assets/Img/GH/Interfaz.jpg" width="600px"/>
+![Alt text](/Img/GH/Interfaz.jpg?raw=true "ooooooooo")
