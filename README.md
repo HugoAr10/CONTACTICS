@@ -6,3 +6,7 @@ SETFP <br/>
 <div align="center">
     <img src="/Img/GH/Interfaz.jpg" width="400px"</img> 
 </div>
+
+![ScreenShot](/Img/GH/Interfaz.jpg)
+
+<img src="https://raw.githubusercontent.com/HugoAr10/CONTACTICS/master/Assets/Img/GH/Interfaz.jpg" width="600px"/>
